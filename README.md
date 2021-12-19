@@ -1,7 +1,8 @@
 ## Install
 仮想環境を作成し、仮想環境に入る
 ``` Shell
-$ conda env create -f tensorflow-env.yml
+$ cd tensorflow-env
+$ conda env create -f python38.yaml
 $ conda activate tensorflow-env
 ```
 
