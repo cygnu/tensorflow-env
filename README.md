@@ -2,8 +2,8 @@
 仮想環境を作成し、仮想環境に入る
 ``` Shell
 $ cd tensorflow-env
-$ conda env create -f python38.yaml
-$ conda activate tensorflow-env
+$ conda env create -f python37.yaml
+$ conda activate python37
 ```
 
 Jupyter Notebookを開く
